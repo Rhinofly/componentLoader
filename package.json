@@ -1,0 +1,25 @@
+{
+  "name": "componentLoader",
+  "version": "0.0.1",
+  "description": "Awesomeness",
+  "main": "ComponentFinder.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rhinofly/componentLoader"
+  },
+  "keywords": [
+    "component",
+    "module",
+    "loader",
+    "amd",
+    "jquery",
+    "requirejs"
+  ],
+  "author": "Rhinofly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rhinofly/componentLoader/issues"
+  },
+  "homepage": "https://github.com/Rhinofly/componentLoader"
+}

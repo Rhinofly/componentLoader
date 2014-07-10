@@ -1,0 +1,10 @@
+{
+  "name": "componentLoader",
+  "version": "0.0.1",
+  "main": "componentFinder.js",
+  "ignore": [],
+  "dependencies": {
+    "requirejs": "~2.1",
+    "jquery": ">1.7"
+  }
+}
